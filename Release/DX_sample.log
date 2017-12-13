@@ -1,0 +1,50 @@
+﻿2016/08/30 18:29:36 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\hosoyama.shinchi\Desktop\tgs_class00\DX_sample.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\DX_sample.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt bg.cpp crystal.cpp fade.cpp game.cpp hit.cpp Icetea.cpp input.cpp main.cpp menubar.cpp oraora.cpp polygon.cpp result.cpp select.cpp title.cpp ton.cpp
+         bg.cpp
+         crystal.cpp
+         fade.cpp
+         game.cpp
+         hit.cpp
+         Icetea.cpp
+         input.cpp
+         main.cpp
+         menubar.cpp
+         oraora.cpp
+         polygon.cpp
+         result.cpp
+         select.cpp
+         title.cpp
+         ton.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hosoyama.shinchi\Desktop\tgs_class00\\DX_sample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\DX_sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hosoyama.shinchi\Desktop\tgs_class00\DX_sample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hosoyama.shinchi\Desktop\tgs_class00\\DX_sample.lib" /MACHINE:X86 Release\bg.obj
+         Release\crystal.obj
+         Release\fade.obj
+         Release\game.obj
+         Release\hit.obj
+         Release\Icetea.obj
+         Release\input.obj
+         Release\main.obj
+         Release\menubar.obj
+         Release\oraora.obj
+         Release\polygon.obj
+         Release\result.obj
+         Release\select.obj
+         Release\title.obj
+         Release\ton.obj
+         コード生成しています。
+         コード生成が終了しました。
+         DX_sample.vcxproj -> C:\Users\hosoyama.shinchi\Desktop\tgs_class00\\DX_sample.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\hosoyama.shinchi\Desktop\tgs_class00\\DX_sample.exe;#1" /manifest Release\DX_sample.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Release\DX_sample.unsuccessfulbuild" を削除しています。
+         "Release\DX_sample.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\hosoyama.shinchi\Desktop\tgs_class00\DX_sample.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:10.92
